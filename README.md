@@ -24,7 +24,7 @@ Sample app that demonstrates how integrate our SDK to show notifications.
 -   **Unlimited Geofences:** GeoSDK is the world's first SDK and mobile engagement platform that shifts the trigger logic and push capability to the mobile device. The cloud is a key part of the equation, but Edge Push Intelligence brings flexibility and freedom like no other push service on the market. Edge Push Intelligence also frees the device from the Android OS limits and allows developers to push contextual messages targeting thousands of geo-fences. In other words: we don't use [Google Geofence API](https://developers.google.com/location-context/geofencing)!
 
 <p align="center">
-<img src="https://i.ibb.co/Tv6p4Cr/google-geofence-api.png" width="200" height="200">
+<img src="https://i.ibb.co/Tv6p4Cr/google-geofence-api.png" width="200" height="150">
 </p>    
     
 -   **Real-Time Engagement:** Deliver real-time mobile engagement via push notifications, based on customer or segment insights (prior to an engagement) combined with information gleaned during an engagement.
